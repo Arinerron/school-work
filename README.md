@@ -23,6 +23,11 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
   * [Outline](https://github.com/Arinerron/school-work/blob/master/junior/tokiop/TOK%20-%20IOP%20Summary.pdf)
   
 ## Senior (2019-20)
+
+### Miscellaneous
 * (coming in June) Extended Essay
 * (coming in June) Theory of Knowledge Essay
 * (coming in May) College Application Essays
+
+### IB Literature 12
+* [Hamlet Essay](https://github.com/Arinerron/school-work/blob/master/senior/hamlet/English%20-%20Hamlet%20Essay%20-%20Final%20Draft.pdf) (written in one night on 0 sleep, pls forgive)
