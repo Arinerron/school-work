@@ -16,3 +16,4 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ## Senior (2019-20)
 * (coming in June) Extended Essay
+* (coming in June) Theory of Knowledge Essay
