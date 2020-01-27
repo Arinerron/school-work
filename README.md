@@ -25,9 +25,10 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 ## Senior (2019-20)
 
 ### Miscellaneous
+* (coming in May) College Application Essays
+* (coming in May) NROTC Application Essays
 * (coming in June) Extended Essay
 * (coming in June) Theory of Knowledge Essay
-* (coming in May) College Application Essays
 
 ### IB Literature 12
 * [Orwell Essay](https://github.com/Arinerron/school-work/blob/master/senior/orwell/George%20Orwell%20Final%20Essay.pdf) (i can't look at this it's so bad)
