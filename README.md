@@ -25,8 +25,8 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 * [_The Stranger_ Essay](https://github.com/Arinerron/school-work/blob/master/junior/englishstuff/The%20Stranger.pdf)
 
 ### IB Theory of Knowledge
-* [Mock TOK Essay](https://github.com/Arinerron/school-work/blob/master/junior/mock-tok/README.md)
-* TOK Presentation (with [Aaron Jobe](https://github.com/dirtyc0wsay))
+* [Mock TOK Essay](https://github.com/Arinerron/school-work/blob/master/junior/mock-tok/TOK%20-%20Mock%20Essay.pdf)
+* TOK Presentation (with [Aaron J.](https://github.com/dirtyc0wsay))
   * [Slides](https://github.com/Arinerron/school-work/blob/master/junior/tokiop/TOK%20Presentation.pdf)
   * [Outline](https://github.com/Arinerron/school-work/blob/master/junior/tokiop/TOK%20-%20IOP%20Summary.pdf)
   
