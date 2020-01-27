@@ -15,6 +15,8 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 * Individual Oral Presentation on "O Motherland Dear Motherland" by Shu Ting
   * [IOP Handout](https://github.com/Arinerron/school-work/blob/master/junior/poetry/O%20Motherland%2C%20Dear%20Motherland.pdf)
   * [IOP Outline](https://github.com/Arinerron/school-work/blob/master/junior/poetry/IOP%20Outline.pdf)
+* ["A Self-Portrait" Poetry Essay](https://github.com/Arinerron/school-work/blob/master/junior/englishstuff/_A%20Self-Portrait_%20Essay.pdf) (group project)
+* [_The Stranger_ Essay](https://github.com/Arinerron/school-work/blob/master/junior/englishstuff/The%20Stranger.pdf)
 
 ### IB Theory of Knowledge
 * [Mock TOK Essay](https://github.com/Arinerron/school-work/blob/master/junior/mock-tok/README.md)
