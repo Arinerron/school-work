@@ -2,6 +2,8 @@
 I put a lot of effort into my work. I don't want to waste it. I might as well publish everything. I'll be adding stuff over the next few months.
 
 ## Freshman (2016-17)
+### Honors English 9
+* [_Of Mice And Men_ Essay](https://github.com/Arinerron/school-work/blob/master/freshman/english/When%20Emotion%20Takes%20Control.pdf)
 
 ## Sophomore (2017-18)
 ### IB Chemistry
