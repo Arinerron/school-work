@@ -1,2 +1,12 @@
-# school-work
-Some work from my high school years that I feel like publishing. I put a lot of work into it, why would I waste it?
+# I'm open-sourcing some essays and projects from high school.
+I put a lot of effort into my work. I don't want to waste it. I might as well publish everything. I'll be adding stuff over the next few months.
+
+## Freshman (2016-17)
+
+## Sophomore (2017-18)
+
+## Junior (2018-19)
+### Theory of Knowledge
+* [Mock TOK Essay](https://github.com/Arinerron/school-work/blob/master/junior/mock-tok/README.md)
+
+## Senior (2019-20)
