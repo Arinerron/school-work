@@ -9,6 +9,9 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 ### IB Chemistry
 * (coming in June) Internal Assessment
 
+### Honors English 10
+* [Lindo in _The Joy Luck Club_ Essay](https://github.com/Arinerron/school-work/blob/master/sophomore/essay/Lindo%20in%20The%20Joy%20Luck%20Club.pdf)
+
 ## Junior (2018-19)
 ### IB Physics
 * (coming in June) Internal Assessment
