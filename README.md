@@ -18,7 +18,10 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ### Theory of Knowledge
 * [Mock TOK Essay](https://github.com/Arinerron/school-work/blob/master/junior/mock-tok/README.md)
-
+* TOK Presentation (with [Aaron Jobe](https://github.com/dirtyc0wsay))
+  * [Slides](https://github.com/Arinerron/school-work/blob/master/junior/tokiop/TOK%20Presentation.pdf)
+  * [Outline](https://github.com/Arinerron/school-work/blob/master/junior/tokiop/TOK%20-%20IOP%20Summary.pdf)
+  
 ## Senior (2019-20)
 * (coming in June) Extended Essay
 * (coming in June) Theory of Knowledge Essay
