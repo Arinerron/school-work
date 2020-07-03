@@ -34,7 +34,7 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ### Miscellaneous
 * [Extended Essay](https://github.com/Arinerron/school-work/blob/master/senior/extended-essay/main.pdf)
-* (coming in June) [Theory of Knowledge Essay](https://github.com/Arinerron/school-work/blob/master/senior/tok-essay/)
+* [Theory of Knowledge Essay](https://github.com/Arinerron/school-work/blob/master/senior/tok-essay/Aaron%20Esau%20-%20TOK%20Essay%20Final%20Draft.pdf)
 
 ### IB Literature 12
 * [Orwell Essay](https://github.com/Arinerron/school-work/blob/master/senior/orwell/George%20Orwell%20Final%20Essay.pdf) (i can't look at this it's so bad)
