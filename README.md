@@ -7,7 +7,7 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ## Sophomore (2017-18)
 ### IB Chemistry
-* (coming in June) Internal Assessment
+* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/senior/ia-chemistry/IB%20Science%20IA%20(Chemistry%29.pdf)
 
 ### Honors English 10
 * [Lindo in _The Joy Luck Club_ Essay](https://github.com/Arinerron/school-work/blob/master/sophomore/essay/Lindo%20in%20The%20Joy%20Luck%20Club.pdf)
@@ -15,7 +15,7 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ## Junior (2018-19)
 ### IB Physics
-* (coming in June) Internal Assessment
+* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/junior/ia-physics/IB%20Science%20IA%20(Physics%29.pdf)
 
 ### IB Literature 11
 * Individual Oral Presentation on "O Motherland Dear Motherland" by Shu Ting
@@ -33,19 +33,20 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 ## Senior (2019-20)
 
 ### Miscellaneous
-* (coming in May) College Application Essays
-* (coming in May) NROTC Application Essays
-* (coming in June) Extended Essay
+* [Extended Essay](https://github.com/Arinerron/school-work/blob/master/senior/extended-essay/main.pdf)
 * (coming in June) Theory of Knowledge Essay
 
 ### IB Literature 12
 * [Orwell Essay](https://github.com/Arinerron/school-work/blob/master/senior/orwell/George%20Orwell%20Final%20Essay.pdf) (i can't look at this it's so bad)
 * [Hamlet Essay](https://github.com/Arinerron/school-work/blob/master/senior/hamlet/English%20-%20Hamlet%20Essay%20-%20Final%20Draft.pdf) (also written in one night on 0 sleep, pls forgive)
-* (coming in March) Doty Essay
-* (coming in June) World Lit
+~~* (coming in March) Doty Essay~~ <-- don't feel like finding these rn
+~~* (coming in June) World Lit~~
 
 ### IB Calculus II
-* (coming in June) Internal Assessment
+* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/senior/ia-math/main.pdf)
+
+### IB History of the Americas
+* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/senior/ia-history/main.pdf)
 
 ### Government
 * [Joint Memorial on Redistricting](https://github.com/Arinerron/school-work/blob/master/senior/government/Government%20-%20Joint%20Memorial%20110.pdf) (mine was the first to be passed!)
