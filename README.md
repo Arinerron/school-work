@@ -7,7 +7,7 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ## Sophomore (2017-18)
 ### IB Chemistry
-* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/senior/ia-chemistry/IB%20Science%20IA%20(Chemistry%29.pdf)
+* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/senior/ia-chemistry/main.pdf)
 
 ### Honors English 10
 * [Lindo in _The Joy Luck Club_ Essay](https://github.com/Arinerron/school-work/blob/master/sophomore/essay/Lindo%20in%20The%20Joy%20Luck%20Club.pdf)
@@ -15,7 +15,7 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ## Junior (2018-19)
 ### IB Physics
-* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/junior/ia-physics/IB%20Science%20IA%20(Physics%29.pdf)
+* [Internal Assessment](https://github.com/Arinerron/school-work/blob/master/junior/ia-physics/main.pdf)
 
 ### IB Literature 11
 * Individual Oral Presentation on "O Motherland Dear Motherland" by Shu Ting
@@ -34,7 +34,7 @@ I put a lot of effort into my work. I don't want to waste it. I might as well pu
 
 ### Miscellaneous
 * [Extended Essay](https://github.com/Arinerron/school-work/blob/master/senior/extended-essay/main.pdf)
-* [Theory of Knowledge Essay](https://github.com/Arinerron/school-work/blob/master/senior/tok-essay/Aaron%20Esau%20-%20TOK%20Essay%20Final%20Draft.pdf)
+* [Theory of Knowledge Essay](https://github.com/Arinerron/school-work/blob/master/senior/tok-essay/main.pdf)
 
 ### IB Literature 12
 * [Orwell Essay](https://github.com/Arinerron/school-work/blob/master/senior/orwell/George%20Orwell%20Final%20Essay.pdf) (i can't look at this it's so bad)
